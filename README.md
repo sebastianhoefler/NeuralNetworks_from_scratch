@@ -16,11 +16,8 @@ The implementation is split into several units:
 4. **Recurrent layer**: Construction of a basic `RNN` (Recurrent Neural Network) cell, as well as `TanH` and `Sigmoid` activation functions.
 5. **PyTorch PV-cell defect classification**: The final assignment which included classification of defects in PV (photovoltaic) units, can be found in a different repository here (include link).
 
-## Installation
+Everything can be run from `NeuralNetwork.py`. 
 
-Provide step-by-step series of examples and explanations about how to get a development environment running.
+## Requirements
 
-```bash
-git clone https://yourprojectlink.git
-cd yourprojectdirectory
-pip install -r requirements.txt
+Everything was developed in `Python 3.10`. The only library needed is `NumPy`. 

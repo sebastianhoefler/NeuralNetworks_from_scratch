@@ -1,10 +1,14 @@
-# Project Title
+# Neural Networks and Deep Learning from scratch with NumPy
 
-A brief description of what this project does and who it's for.
+This repository contains the implementation of different Neural Network layers from scratch using only NumPy. It is based on the programming exercises from the Deep Learning course (SS 2023) offered at the [Pattern Recognition Lab](URL "(https://lme.tf.fau.de/)") Lab of the Computer Science Department at the Friedrich-Alexander-University Erlangen-Nuernberg (FAU). The course was offered by Prof. Dr.-Ing. habil. Andreas Maier.
 
 ## Features
 
-- Feature 1
+The primary objective of these exercises was to construct the essential components of neural networks, focusing on the development and implementation of various types of layers, optimizers, and activation functions. 
+
+The implementation is split into several units:
+
+- Unit 1: 
 - Feature 2
 - Feature 3
 

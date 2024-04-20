@@ -14,7 +14,6 @@ The implementation is split into several units:
 2. **Convolutional layer**: Construction of the basic functions of a CNN (Convolutional Neural Network) `Conv`, `Pooling` and `Flatten` layer. Implementation of two advanced optimizers `Adam` and `SgdWithMomentum`
 3. **Regularization**: Implementation of of different regularization techniques to combat overfitting and imporve performance. `Dropout`, `L1` and `L2` as well as `Batch Normalization`.
 4. **Recurrent layer**: Construction of a basic `RNN` (Recurrent Neural Network) cell, as well as `TanH` and `Sigmoid` activation functions.
-5. **PyTorch PV-cell defect classification**: The final assignment which included classification of defects in PV (photovoltaic) units, can be found in a different repository here (include link).
 
 Everything can be run from `NeuralNetwork.py`. 
 
